@@ -26,8 +26,7 @@ Install Clickter now and unlock the power of currency and number conversion righ
 
 ### **[Buy us a coffee ☕](https://www.buymeacoffee.com/ideazero)**
 
-<br>
-<br>
+#
 <a href="https://ideazero.in/">
 <p align="center">
     <img src="https://ideazero.in/wp-content/uploads/2022/12/Cream_250x250_IZ_WM.png"
