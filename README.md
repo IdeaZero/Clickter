@@ -38,7 +38,7 @@ The source code will be published here soon shortly after achieving a milestone 
 
 Whether you're an online shopper, a financial professional, avid traveller or someone dealing with diverse numerical currencies and formats, Clickter is your go-to companion for effortless currency and number conversions. Say goodbye to manual calculations and stay on top of global currencies and number scales with this essential Chrome extension.
 
-Install Clickter now and unlock the power of currency and number conversion right at your fingertips 🚀
+Install **[Clickter](https://chrome.google.com/webstore/detail/clickter/almdecgpjpjnaoaajejfnjneiioddmdi)** now and unlock the power of currency and number conversion right at your fingertips 🚀
 
 #### **Exchange rates are update every 3 hours using the free open source API from [Exchangerate.host](https://exchangerate.host/)** 🙏
 
