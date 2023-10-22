@@ -40,7 +40,7 @@ Whether you're an online shopper, a financial professional, avid traveller or so
 
 Install **[Clickter](https://chrome.google.com/webstore/detail/clickter/almdecgpjpjnaoaajejfnjneiioddmdi)** now and unlock the power of currency and number conversion right at your fingertips 🚀
 
-#### **Exchange rates are update once every day at 16:00 CET using the free open source API from [VATcomply](https://vatcomply.com/)** 🙏
+#### **Exchange rates are not Real-Time, they are updated once every day at 16:00 CET from [VATcomply](https://vatcomply.com/)** 🙏
 
  <a href="https://instagram.com/ideazero_">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
