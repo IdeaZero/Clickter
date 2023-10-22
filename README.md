@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-![](https://img.shields.io/badge/version-v1.2.1-blue)
+![](https://img.shields.io/badge/version-v1.3.0-blue)
 
 Clickter is a simple chrome extension that simplifies currency conversion for users. With just a few clicks, you can effortlessly convert currencies
 
