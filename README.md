@@ -1,4 +1,4 @@
-<img src="./icon.png" align="right" width="60" height="60">
+<img src="./icon1.png" align="right" width="60" height="60">
 
 # [Clickter](https://chrome.google.com/webstore/detail/clickter/almdecgpjpjnaoaajejfnjneiioddmdi)
 
